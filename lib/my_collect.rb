@@ -10,6 +10,5 @@ def my_collect(a)
   else
     "Block is empty!"
   end
-   
-end
 
+end
